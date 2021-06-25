@@ -8,3 +8,5 @@ It's a sort of scroller game. Navigate your ship (the one with the red fins) fro
 Use arrow keys to move your ship, T to shoot torpedoes and P to pause. At least in DOS BOX under Mac OS X, those have to be capital letters, so it might be best to keep Caps Lock on while playing.
 
 I don't remember the scoring scheme other than that you get 500 points for completing a level without crashing or getting shot. I'll have to review the source code to remember the other details. 
+
+If you use QB64, the game will probably run so fast that you won't be able to complete a single level. You'll need to slow the game down somehow.
